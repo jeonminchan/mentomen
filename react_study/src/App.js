@@ -1,7 +1,9 @@
+import Com from "./components/Com/Com";
 function App() {
   return (
     <div className="App">
-      안녕하세요
+      <Com />
+      {/* 안녕하세요 */}
     </div>
   );
 }
