@@ -13,13 +13,10 @@ const CountComponets = () => {
 
   return (
     <>
-      <div>
-        <h1>카운트하기</h1>
-        <button onClick={PlusClickEvent}>+</button>
-        <div>{count}</div>
-        <button onClick={MinusClickEvent}>-</button>
-        
-      </div>
+      <h1>카운트하기</h1>
+      <button onClick={PlusClickEvent}>+</button>
+      <div>{count}</div>
+      <button onClick={MinusClickEvent}>-</button>
     </>
   );
 };

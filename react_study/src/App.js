@@ -1,5 +1,5 @@
 // import Com from "./components/Com/Com";
-// import MyComponents from "./components/Com/MyComponents/MyComponents";
+// import MyComponents from "./components/MyComponents/MyComponents";
 // import CountComponets from "./components/Com/CountComponents/CountComponents";
 // import PassWordChange from "./components/PassWordChange/PassWordChange";
 import DummyList from "./components/Diary/Dummy/DummyList";
